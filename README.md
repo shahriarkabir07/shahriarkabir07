@@ -7,8 +7,6 @@
 
 Email Me 👉 ✉️ **shahriar.kabir.swe@gmail.com** Project or Anything Else. 😊😊
 
-## 🔗 I am a Compitative Programmer. 😊😊
-
 
 
 
