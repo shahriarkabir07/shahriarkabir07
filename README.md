@@ -1,41 +1,47 @@
 <div align="center">
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahriar+Kabir;Welcome+to+my+GitHub!+%F0%9F%9A%80;Building+cool+things+%F0%9F%92%BB" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahriar+Kabir;Welcome+to+my+GitHub!+%F0%9F%9A%80;Building+cool+things+%F0%9F%92%BB" />
 </div>
 
 <div align="center">
 
-### 💫 A Passionate Software Engineer | App Developer | From Bangladesh 🇧🇩
+**A passionate Software Engineer || App Developer || From Bangladesh** 🇧🇩
+
+📧 Email Me 👉 **shahriar.kabir.swe@gmail.com** — For Projects or Anything Else 😊
+
+</div>
+
+---
+
+## 🌐 Socials
+
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shahriar_rony06)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriar-kabir-74160b3ab)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriar.kabir.swe@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriar.kabir.swe@gmail.com)
 
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
 
 ## 🖥️ Tech Stack
 
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<div align="center">
 
-### Cloud & Backend
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+### Languages & Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,aws,apache,mysql,figma,github,jest&theme=dark" />
 
 ### Design Suite
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
@@ -43,15 +49,7 @@
 ![Acrobat Reader](https://img.shields.io/badge/Acrobat%20Reader-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+</div>
 
 ---
 
@@ -79,7 +77,7 @@
 
 ---
 
-## ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 
 <div align="center">
 
@@ -89,7 +87,7 @@
 
 ---
 
-## 🔝 Top Contributed Repos
+### 🔝 Top Contributed Repos
 
 <div align="center">
 
@@ -103,6 +101,6 @@
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=shahriarkabir07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*📧 Email me at **shahriar.kabir.swe@gmail.com** for projects or collaborations!*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
