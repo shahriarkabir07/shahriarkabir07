@@ -24,14 +24,10 @@
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriarkabir07&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -41,9 +37,22 @@
 <div align="center">
 
 ### Languages & Tools
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,aws,apache,mysql,figma,github,jest&theme=dark" />
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Design Suite
+
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Acrobat Reader](https://img.shields.io/badge/Acrobat%20Reader-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
@@ -57,11 +66,15 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriarkabir07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=shahriarkabir07&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=shahriarkabir07&theme=dark&hide_border=false)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarkabir07&theme=dark&hide_border=false" alt="Streak Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -91,7 +104,7 @@
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=shahriarkabir07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=shahriarkabir07&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 
 </div>
 
